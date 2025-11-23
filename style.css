@@ -35,6 +35,7 @@ h2 img:hover {
 .container {
     width: 600px;
     margin: 0px auto 0px auto;
+    text-align: center;
 }
 
 .link-header {
